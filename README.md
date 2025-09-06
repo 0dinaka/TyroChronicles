@@ -25,18 +25,18 @@ It uses **PivotTables**, **PivotCharts**, and **Slicers** to explore customer de
 ## 📊 Data Preparation
 - Standardized Gender values (e.g., M → Male, F → Female, NA → Unknown)
 - Calculated Age from Date of Birth, then grouped into Age Bands
-- Formatted Monthly Income as accounting
+- Formatted the Monthly Income as accounting
 - Labelled blanks as Unknown for consistency
 
 ---
 
 ## 📸 Visual Preview
 
-![Gender vs Marital Status](screenshots/gender_marital_status.png)
-![Age Distribution](screenshots/age_distribution.png)
-![Monthly Average Income](screenshots/monthly_average_income.png)  
-![Occupation vs Educational Level](screenshots/occupation_educational_level.png)  
-![Marital Status and Total Children](screenshots/marital_status_and_total_children.png)  
+![Gender vs Marital Status](screenshots/1.png)
+![Age Distribution](screenshots/2.png)
+![Monthly Average Income](screenshots/3.png)  
+![Occupation vs Educational Level](screenshots/4.png)  
+![Marital Status and Total Children](screenshots/5.png)  
 
 ---
 
@@ -59,4 +59,5 @@ It uses **PivotTables**, **PivotCharts**, and **Slicers** to explore customer de
 ## 📜 License
 
 For educational and portfolio purposes. Dataset is based on the **AdventureWorks** sample database.
+
 
