@@ -32,11 +32,11 @@ It uses **PivotTables**, **PivotCharts**, and **Slicers** to explore customer de
 
 ## 📸 Visual Preview
 
-![Age-Gender-Marital](screenshots/gender_marital_status.png)
-![Age-Gender-Marital](screenshots/age_distribution.png)
-![Age-Gender-Marital](screenshots/monthly_average_income.png)  
-![Income by Education](screenshots/occupation_educational_level.png)  
-![Dashboard Overview](screenshots/marital_status_and_total_children.png)  
+![Gender vs Marital Status](screenshots/gender_marital_status.png)
+![Age Distribution](screenshots/age_distribution.png)
+![Monthly Average Income](screenshots/monthly_average_income.png)  
+![Occupation vs Educational Level](screenshots/occupation_educational_level.png)  
+![Marital Status and Total Children](screenshots/marital_status_and_total_children.png)  
 
 ---
 
@@ -59,3 +59,4 @@ It uses **PivotTables**, **PivotCharts**, and **Slicers** to explore customer de
 ## 📜 License
 
 For educational and portfolio purposes. Dataset is based on the **AdventureWorks** sample database.
+
