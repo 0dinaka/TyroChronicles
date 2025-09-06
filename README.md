@@ -31,7 +31,6 @@ It uses **PivotTables**, **PivotCharts**, and **Slicers** to explore customer de
 ---
 
 ## 📸 Visual Preview
-(Replace these with your actual screenshot file names after uploading them)
 
 ![Age-Gender-Marital](screenshots/gender_marital_status.png)
 ![Age-Gender-Marital](screenshots/age_distribution.png)
@@ -58,4 +57,5 @@ It uses **PivotTables**, **PivotCharts**, and **Slicers** to explore customer de
 ---
 
 ## 📜 License
+
 For educational and portfolio purposes. Dataset is based on the **AdventureWorks** sample database.
